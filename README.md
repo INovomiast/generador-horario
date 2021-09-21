@@ -1,1 +1,3 @@
-# generador-horario
+# Schedule Generator
+<hr>
+**Schedule Generator** es una herramienta sencilla con la cual puedes generar horarios para imprimir!... a ver todos sabemos que no lo voy a acabar pero weno...
