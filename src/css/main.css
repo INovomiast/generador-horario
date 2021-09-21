@@ -39,3 +39,7 @@ body{
 .tool_exp_title{
     text-decoration: black underline 2px;
 }
+
+.tool_exp_body{
+    color: white;
+}
