@@ -13,3 +13,9 @@ body{
     background: linear-gradient(to right, #2C5364, #203A43, #0F2027);
 }
 
+.page_title{
+    width: 100%;
+    height: 50px;
+    color: white;
+    background-color: teal;
+}
