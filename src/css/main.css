@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nunito&display=swap');
 
 *{
     padding: 0;
@@ -12,6 +13,7 @@ html{
 body{
     background-color: white;
     color: black;
+    font-family: 'Nunito', sans-serif;
 }
 
 .page_title{
@@ -21,4 +23,14 @@ body{
     background-color: teal;
     text-align: center;
     font-family: 'Oswald', sans-serif;
+}
+
+.tool_exp{
+    margin-top: 30px;
+    text-align: center;
+    width: 60%;
+    background-color: cadetblue;
+    border: dotted 2px rgb(56, 114, 161);
+    border-radius: 12px;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
 }
